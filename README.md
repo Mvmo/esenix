@@ -1,0 +1,1 @@
+# esenix| Extensible *nix editor
